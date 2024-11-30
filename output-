@@ -1,0 +1,17 @@
+
+WELCOME TO PYTHON RESTAURANT
+pizza: Rs-40
+pasta: RS-40
+combo pizza: Rs-150
+burger: RS-60
+hotdog: Rs-25
+salad: RS-35
+coffee: Rs-30
+tea: RS-10
+
+Enter the name of item u want to order = pizza
+your item pizza has been added to your order
+Do you want to add another item? (YES/NO) no
+
+The total amount to pay is Rs-40.
+PS D:\mini  project restaurant> 
